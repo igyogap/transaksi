@@ -1,0 +1,21 @@
+{
+  "status": "200 - success",
+  "total": 3,
+  "data": [
+    {
+      "year_id": "2020",
+      "customer_name": "Alex Avila",
+      "total_buy": "5558.510003089905"
+    },
+    {
+      "year_id": "2017",
+      "customer_name": "Edward Hooks",
+      "total_buy": "7937.511869430542"
+    },
+    {
+      "year_id": "2017",
+      "customer_name": "Jonathan Doherty",
+      "total_buy": "6181.108065605164"
+    }
+  ]
+}

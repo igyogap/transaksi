@@ -1,0 +1,16 @@
+{
+  "status": "200 - success",
+  "total": 10,
+  "data": [
+    { "year_id": "2016", "product_name": "GBC Clear Cover, 8-1/2 x 11, unpunched, 25 covers per pack", "total_sold": "1" },
+    { "year_id": "2018", "product_name": "Ames Color-File Green Diamond Border X-ray Mailers", "total_sold": "1" },
+    { "year_id": "2016", "product_name": "Economy Rollaway Files", "total_sold": "1" },
+    { "year_id": "2016", "product_name": "Xerox 1951", "total_sold": "1" },
+    { "year_id": "2015", "product_name": "Xerox 1986", "total_sold": "1" },
+    { "year_id": "2018", "product_name": "Acco Smartsocket Color-Coded Six-Outlet AC Adapter Model Surge Protectors", "total_sold": "1" },
+    { "year_id": "2017", "product_name": "Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack", "total_sold": "1" },
+    { "year_id": "2017", "product_name": "Verbatim Slim CD and DVD Storage Cases, 50/Pack", "total_sold": "1" },
+    { "year_id": "2016", "product_name": "Case Logic 2.4GHz Wireless Keyboard", "total_sold": "1" },
+    { "year_id": "2015", "product_name": "Laser & Ink Jet Business Envelopes", "total_sold": "1" }
+  ]
+}

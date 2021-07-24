@@ -1,0 +1,16 @@
+{
+  "status": "200 - success",
+  "total": 10,
+  "data": [
+    { "year_id": "2020", "product_name": "Bush Birmingham Collection Bookcase, Dark Cherry", "total_sold": "26" },
+    { "year_id": "2018", "product_name": "Easy-staple paper", "total_sold": "16" },
+    { "year_id": "2015", "product_name": "Staple envelope", "total_sold": "15" },
+    { "year_id": "2018", "product_name": "Staples", "total_sold": "15" },
+    { "year_id": "2015", "product_name": "Staples", "total_sold": "13" },
+    { "year_id": "2018", "product_name": "Staples in misc. colors", "total_sold": "12" },
+    { "year_id": "2016", "product_name": "Easy-staple paper", "total_sold": "12" },
+    { "year_id": "2016", "product_name": "Staple envelope", "total_sold": "11" },
+    { "year_id": "2017", "product_name": "Easy-staple paper", "total_sold": "11" },
+    { "year_id": "2017", "product_name": "Staple envelope", "total_sold": "11" }
+  ]
+}

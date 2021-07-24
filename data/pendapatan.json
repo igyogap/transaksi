@@ -1,0 +1,156 @@
+{
+  "status": "200 - success",
+  "total": 30,
+  "data": [
+    {
+      "year_id": "0",
+      "region": "Central",
+      "total_sales": "250.00"
+    },
+    {
+      "year_id": "0",
+      "region": "West",
+      "total_sales": "0.00"
+    },
+    {
+      "year_id": "2000",
+      "region": "South",
+      "total_sales": "22.00"
+    },
+    {
+      "year_id": "2015",
+      "region": "Central",
+      "total_sales": "103838.16"
+    },
+    {
+      "year_id": "2015",
+      "region": "East",
+      "total_sales": "128399.08"
+    },
+    {
+      "year_id": "2015",
+      "region": "South",
+      "total_sales": "103845.84"
+    },
+    {
+      "year_id": "2015",
+      "region": "West",
+      "total_sales": "147883.03"
+    },
+    {
+      "year_id": "2016",
+      "region": "Central",
+      "total_sales": "102874.22"
+    },
+    {
+      "year_id": "2016",
+      "region": "East",
+      "total_sales": "156332.06"
+    },
+    {
+      "year_id": "2016",
+      "region": "South",
+      "total_sales": "71269.92"
+    },
+    {
+      "year_id": "2016",
+      "region": "West",
+      "total_sales": "139966.25"
+    },
+    {
+      "year_id": "2017",
+      "region": "Central",
+      "total_sales": "147429.38"
+    },
+    {
+      "year_id": "2017",
+      "region": "East",
+      "total_sales": "180636.70"
+    },
+    {
+      "year_id": "2017",
+      "region": "South",
+      "total_sales": "92986.20"
+    },
+    {
+      "year_id": "2017",
+      "region": "West",
+      "total_sales": "187480.18"
+    },
+    {
+      "year_id": "2018",
+      "region": "Central",
+      "total_sales": "147098.13"
+    },
+    {
+      "year_id": "2018",
+      "region": "East",
+      "total_sales": "212538.52"
+    },
+    {
+      "year_id": "2018",
+      "region": "South",
+      "total_sales": "122905.86"
+    },
+    {
+      "year_id": "2018",
+      "region": "West",
+      "total_sales": "250026.03"
+    },
+    {
+      "year_id": "2019",
+      "region": "Central",
+      "total_sales": "2.30"
+    },
+    {
+      "year_id": "2020",
+      "region": "",
+      "total_sales": "236.37"
+    },
+    {
+      "year_id": "2020",
+      "region": "Central",
+      "total_sales": "37239.30"
+    },
+    {
+      "year_id": "2020",
+      "region": "East",
+      "total_sales": "1503521.28"
+    },
+    {
+      "year_id": "2020",
+      "region": "South",
+      "total_sales": "5146.77"
+    },
+    {
+      "year_id": "2020",
+      "region": "West",
+      "total_sales": "2255.06"
+    },
+    {
+      "year_id": "2021",
+      "region": "",
+      "total_sales": "9999.00"
+    },
+    {
+      "year_id": "2021",
+      "region": "Central",
+      "total_sales": "6452.00"
+    },
+    {
+      "year_id": "2021",
+      "region": "East",
+      "total_sales": "79084.00"
+    },
+    {
+      "year_id": "2021",
+      "region": "South",
+      "total_sales": "21415.00"
+    },
+    {
+      "year_id": "2021",
+      "region": "West",
+      "total_sales": "1076.00"
+    }
+  ]
+}
