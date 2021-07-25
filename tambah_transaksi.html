@@ -10,14 +10,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
+    <link rel="stylesheet" href="css/style.css">
     <title>Transaksi</title>
-    <style>
-        .scroll {
-            overflow: scroll;
-            height: 500px;
-            width: 100%;
-        }
-    </style>
+
 </head>
 
 <body>
@@ -32,7 +27,7 @@
             <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
                 <div class="navbar-nav ms-auto">
                     <a class="nav-link active" aria-current="page" href="index.html">Dashboard</a>
-                    <a class="nav-link" href="tambah_transaksi.html">Tambah Transaksi</a>
+                    <a class="nav-link" href="">Tambah Transaksi</a>
                     <a class="nav-link" href="daftar_Order.html">Daftar Order</a>
                 </div>
             </div>
@@ -40,54 +35,36 @@
     </nav>
 
     <!--==================== End Navbar ====================-->
-    <!--====================== Total Penjualan ======================-->
+    <!--====================== Tambah Transaksi ======================-->
+    <div class="container">
+        <div class="tambah-transaksi col-6 mx-auto">
+            <h3>Tambah Transaksi</h3>
+            <form id="form">
 
-    <div class=" container mb-5">
-        <div class="daftar_Order">
-            <h2 class="mt-5">Total Penjualan</h2>
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <div class="container">
-                    <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
-                        <div class="navbar-nav mx-auto">
-                            <li class="nav-link region active" aria-current="page">East</li>
-                            <li class="nav-link region">West</li>
-                            <li class="nav-link region">Central</li>
-                            <li class="nav-link region">South</li>
-                        </div>
-                    </div>
+                <select class="form-select" aria-label="Default select example" id="name" required>
+                    <option selected>Nama Customers</option>
+
+
+                </select>
+                <select class="form-select" aria-label="Default select example" id="product" required>
+                    <option selected>Nama Product</option>
+
+                </select><select class="form-select" aria-label="Default select example" required>
+                    <option id="region" selected>Region</option>
+                    <option id="region" value="East">East</option>
+                    <option id="region" value="West">West</option>
+                    <option id="region" value="Central">Central</option>
+                    <option id="region" value="South">South</option>
+                </select>
+                <div class="mb-3">
+                    <label for="total-bayar" class="form-label">Total Harga</label>
+                    <input type="text" class="form-control" id="sales" required>
                 </div>
-            </nav>
-            <table class="table ">
-                <thead class="table-dark">
-                    <tr class="">
-                        <td class="text-center col-2">Id Order</td>
-                        <td class="text-center col-5">Nama Product</td>
-                        <td class="text-center col-1 pe-4">Region</td>
-                        <td class="text-center col-2 pe-5">Tanggal</td>
-                        <td class="text-center col-2">Harga</td>
-                    </tr>
-                </thead>
-                <tbody>
-
-                    <td colspan="6">
-                        <div class="scroll">
-                            <table>
-                                <div id="order"></div>
-                            </table>
-                        </div>
-                    </td>
-
-
-
-
-                </tbody>
-
-
-            </table>
+                <button type="submit" id="btn" class="btn btn-primary">Submit</button>
+            </form>
         </div>
     </div>
-
-    <!--==================== End Total Penjualan ====================-->
+    <!--==================== End Tambah Transaksi ====================-->
 
 
     <!-- Optional JavaScript; choose one of the two! -->
@@ -107,7 +84,7 @@
         integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
         crossorigin="anonymous"></script>
 
-    <script src="js/daftar-order.js"></script>
+    <script src="js/tambah-transaksi.js"></script>
 
     <!-- Option 2: Separate Popper and Bootstrap JS -->
     <!--
